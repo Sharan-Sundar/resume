@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
+# CLEF2018
+- project: Convolutional Long Short-Term Memory Neural Networks for Hierarchical Species Prediction
+  role: Conference and Labs of the Evaluation Forum (CLEF 2018)
+  duration: Avignon,France &mdash; Sep,2018 
+  url: "http://ceur-ws.org/Vol-2125/paper_184.pdf"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# AAAI2018
+- project: DeepTrace: Generic Deep Framework for Cross-Domain Univariate and Multivariate Time Series Forecast (Under Review)
+  role: Association for the Advancement of Artificial Intelligence (AAAI-19)
+  duration: Hawaii,USA &mdash; Feb,2019
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
