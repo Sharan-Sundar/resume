@@ -4,13 +4,20 @@
 # CLEF2018
 - project: Convolutional Long Short-Term Memory Neural Networks for Hierarchical Species Prediction
   role: Conference and Labs of the Evaluation Forum (CLEF 2018)
-  duration: Avignon,France &mdash; Sep,2018 
-  url: "http://ceur-ws.org/Vol-2125/paper_184.pdf"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration:            Avignon,France &mdash; Sep,2018 
+  #url: "http://ceur-ws.org/Vol-2125/paper_184.pdf"
+  description: Modelling the  species  distribution  given  their  spatial  environmental  features  along  with the  species  taxonomy , a deep network called as CLNN,a combination of Convolutional Neural Networks(CNNs) and Long Short-Term Memory Networks(LSTMs), was introduced and tested on the dataset provided by GeoLifeCLEF 2018.
 
-# AAAI2018
+# AAAI2019
 - project: DeepTrace &#58; Generic Deep Framework for Cross-Domain Univariate and Multivariate Time Series Forecast (Under Review)
   role: Association for the Advancement of Artificial Intelligence (AAAI-19)
   duration: Hawaii,USA &mdash; Feb,2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description:A generic framework of model architectures that could work across all classes of time series datasets, called DeepTrace, was introduced to eliminate the feature engineering task without compromising on the accuracy of state-of-the-art models and algorithms.
+
+# SDM2019
+- project: A Machine-Learning approach to Occupancy Forecasting using Feature Tuning (Under Review)
+  role: SIAM International Conference on Data Mining (SDM19)
+  duration: Alberta,Canada &mdash; May,2019
+  # url: "#"
+  description: Dataset construction, Feature Engineering and Feature Tuning to model crowd behaviour for occupancy forecasting in a popular multiplex in India.
