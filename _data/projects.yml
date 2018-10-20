@@ -20,5 +20,4 @@
   role: SIAM International Conference on Data Mining (SDM19)
   duration: Alberta,Canada &mdash; May,2019
   # url: "#"
-  description: Dataset construction, Feature Engineering and Feature Tuning to model crowd behaviour for occupancy forecasting was performed on a historical booking data (2013 - 2017), of
-a popular Indian multiplex, resulting in significant MAPE & R2 scores.
+  description: Dataset construction, Feature Engineering and Feature Tuning to model crowd behaviour for occupancy forecasting was performed on a historical booking data (2013 - 2017), of a popular Indian multiplex, resulting in significant MAPE & R2 scores.
