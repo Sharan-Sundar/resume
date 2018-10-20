@@ -6,7 +6,7 @@
   role: Conference and Labs of the Evaluation Forum (CLEF 2018)
   duration:            Avignon,France &mdash; Sep,2018 
   #url: "http://ceur-ws.org/Vol-2125/paper_184.pdf"
-  description: Modelling the  species  distribution  given  their  spatial  environmental  features  along  with the  species  taxonomy , a deep network christened as CLNN,a combination of Convolutional Neural Networks(CNNs) and Long Short-Term Memory Networks(LSTMs), was introduced and tested on the dataset provided by GeoLifeCLEF 2018.
+  description: Modelling the  species  distribution  given  their  spatial  environmental  features  along  with the  species  taxonomy , a deep network christened as CLNN,a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory Networks (LSTMs), was introduced and tested on the dataset provided by GeoLifeCLEF 2018.
 
 # AAAI2019
 - project: DeepTrace &#58; Generic Deep Framework for Cross-Domain Univariate and Multivariate Time Series Forecast (Under Review)
@@ -20,4 +20,5 @@
   role: SIAM International Conference on Data Mining (SDM19)
   duration: Alberta,Canada &mdash; May,2019
   # url: "#"
-  description: Dataset construction, Feature Engineering and Feature Tuning to model crowd behaviour for occupancy forecasting in a popular multiplex in India.
+  description: Dataset construction, Feature Engineering and Feature Tuning to model crowd behaviour for occupancy forecasting was performed on a historical booking data (2013 - 2017), of
+a popular Indian multiplex, resulting in significant MAPE & R2 scores.
