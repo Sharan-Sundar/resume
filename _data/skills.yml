@@ -10,3 +10,6 @@
 # Digital content development and creation
 - skill: Advanced
   description: Deep learning, Python
+  
+  - skill: Framworks and Tools
+  description: Arduino, Keras, Tensorflow, Scikit-learn
