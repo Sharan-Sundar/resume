@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Association of Computer Engineers (ACE), SSN
+  role: President
+  year: 2018 &mdash; Present
+  url: http://www.ssn.edu.in/
+  summary: Responsible for Department of Computer Science Engineering Activities and part of the core organizing SSN's Tech Fest Invente2k18. 
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Teach-A-School
+  role: Teacher Volunteer  
+  year: 2017
+  url: http://www.ssnlakshya.in/tas_page/index.html
+  summary: Delivered Basic Math and Science concepts designed in line with their school curriculum for primary school children(6th Grade, Lady Sivaswami Iyer Girls School ) .
