@@ -109,15 +109,16 @@
 }
 
 .button {
+    @include border-radius(3px);
     background-color: #efefef;
     border: none;
     color: #333;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: `block;
+    display: `inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 1.5rem auto;
     cursor: pointer;
   @include transition(all .2s ease);
 
