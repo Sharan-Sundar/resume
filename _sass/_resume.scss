@@ -108,6 +108,27 @@
   }
 }
 
+.button {
+    background-color: #efefef;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  @include transition(all .2s ease);
+
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+  &.not-looking { width: 400px; }
+}
+
 .contact-button {
   @include border-radius(3px);
   background-color: #efefef;
